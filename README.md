@@ -1,4 +1,4 @@
-# Sudoku
+# Sudoku Desafio
 
 # Projeto Original
 - Brach main com jogo no terminal: https://github.com/digitalinnovationone/sudoku
